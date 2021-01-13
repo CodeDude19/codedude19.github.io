@@ -21,7 +21,9 @@ a:hover {
   color: #067ded;
   text-decoration: none;
 }
-
+.resumelink {
+  font-size: 1.3em;
+}
 h1,
 h2,
 h3,
